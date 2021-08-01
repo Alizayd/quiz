@@ -1,0 +1,55 @@
+p{
+    display: block;
+    padding: 10px;
+}
+
+
+.x{
+
+width: 25%;
+height: 250px;
+text-align: center;
+font: size 25px;
+margin:50px;
+margin-right: auto;
+margin-left: auto;
+box-shadow: 2px 1px 4px 2px rgb(129, 127, 127);
+background-color: rgb(61, 60, 60);
+}
+body{
+background-color: black;
+}
+.v{
+ 
+text-align: center;
+background-color: rgba(255, 255, 255, 0.938);
+
+
+}
+#date{
+    margin-top: 20px;
+    background-color: rgb(95, 142, 173);
+    width:100%;
+    display: none;
+}
+#hesilf{
+    margin-top: 20px;
+    background-color: rgb(130, 176, 207);
+    width: 100%;
+    display: none;
+}
+
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+   margin-top: 70px;
+}
+#yes{
+    margin-top: 2px;
+}
+
+
+
+
+
